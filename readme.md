@@ -1,3 +1,9 @@
+# NGS Tour
+
+Forked from https://github.com/ACMILabs/static-museum-audio-guide
+Any major functionality changes can be submitted as a PR to ACMILabs as per Opensource best practices.
+
+
 # Static Museum Audio Guide
 
 A [Jekyll](http://jekyllrb.com/) static site generator theme for building lightweight audio tours for exhibitions or museums.
